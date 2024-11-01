@@ -1,0 +1,14 @@
+
+.sbcloud-table {
+    max-width: 800px;
+}
+
+.sbcloud-table input[type=text], .sbcloud-table textarea, .sbcloud-table select {
+    width: 100%;
+}
+
+.sbcloud-table td label {
+    display: block;
+    margin: 5px 0;
+    font-weight: 600;
+}
